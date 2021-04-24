@@ -1,0 +1,44 @@
+// https://github.com/mongsukim/doll_shop
+
+[
+  {
+    "id": 3,
+    "title": "라이언 인형",
+    "content": "only 5 inches",
+    "price": 120000
+  },
+  {
+    "id": 4,
+    "title": "어피치 인형",
+    "content": "for less than 6",
+    "price": 120000
+  },
+  {
+    "id": 5,
+    "title": "콘 인형",
+    "content": "Born in France",
+    "price": 120000
+  },
+  {
+    "id": 6,
+    "title": "네오 인형",
+    "content": "only 5 inches",
+    "price": 120000
+  },
+  {
+    "id": 7,
+    "title": "오리 인형",
+    "content": "for less than 6",
+    "price": 120000
+  },
+  {
+    "id": 8,
+    "title": "제이지 인형",
+    "content": "Born in France",
+    "price": 120000
+  }
+
+
+
+
+]
