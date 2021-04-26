@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/mongsukim/doll_shop/static/css/main.c707eb97.chunk.css",
-    "main.js": "/mongsukim/doll_shop/static/js/main.8a50380e.chunk.js",
-    "main.js.map": "/mongsukim/doll_shop/static/js/main.8a50380e.chunk.js.map",
-    "runtime-main.js": "/mongsukim/doll_shop/static/js/runtime-main.d941667a.js",
-    "runtime-main.js.map": "/mongsukim/doll_shop/static/js/runtime-main.d941667a.js.map",
-    "static/js/2.0d89042c.chunk.js": "/mongsukim/doll_shop/static/js/2.0d89042c.chunk.js",
-    "static/js/2.0d89042c.chunk.js.map": "/mongsukim/doll_shop/static/js/2.0d89042c.chunk.js.map",
-    "static/js/3.370e7ba9.chunk.js": "/mongsukim/doll_shop/static/js/3.370e7ba9.chunk.js",
-    "static/js/3.370e7ba9.chunk.js.map": "/mongsukim/doll_shop/static/js/3.370e7ba9.chunk.js.map",
-    "index.html": "/mongsukim/doll_shop/index.html",
-    "static/css/main.c707eb97.chunk.css.map": "/mongsukim/doll_shop/static/css/main.c707eb97.chunk.css.map",
-    "static/js/2.0d89042c.chunk.js.LICENSE.txt": "/mongsukim/doll_shop/static/js/2.0d89042c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/mongsukim/doll_shop/static/media/logo.6ce24c58.svg"
+    "main.css": "/doll_shop/static/css/main.c707eb97.chunk.css",
+    "main.js": "/doll_shop/static/js/main.8a50380e.chunk.js",
+    "main.js.map": "/doll_shop/static/js/main.8a50380e.chunk.js.map",
+    "runtime-main.js": "/doll_shop/static/js/runtime-main.98cc5e74.js",
+    "runtime-main.js.map": "/doll_shop/static/js/runtime-main.98cc5e74.js.map",
+    "static/js/2.0d89042c.chunk.js": "/doll_shop/static/js/2.0d89042c.chunk.js",
+    "static/js/2.0d89042c.chunk.js.map": "/doll_shop/static/js/2.0d89042c.chunk.js.map",
+    "static/js/3.370e7ba9.chunk.js": "/doll_shop/static/js/3.370e7ba9.chunk.js",
+    "static/js/3.370e7ba9.chunk.js.map": "/doll_shop/static/js/3.370e7ba9.chunk.js.map",
+    "index.html": "/doll_shop/index.html",
+    "static/css/main.c707eb97.chunk.css.map": "/doll_shop/static/css/main.c707eb97.chunk.css.map",
+    "static/js/2.0d89042c.chunk.js.LICENSE.txt": "/doll_shop/static/js/2.0d89042c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/doll_shop/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d941667a.js",
+    "static/js/runtime-main.98cc5e74.js",
     "static/js/2.0d89042c.chunk.js",
     "static/css/main.c707eb97.chunk.css",
     "static/js/main.8a50380e.chunk.js"
