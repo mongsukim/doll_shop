@@ -1,0 +1,22 @@
+$메인칼라: #ff0000;
+.wow-enter {
+  opacity: 0;
+}
+.wow-enter-active {
+  opacity: 1;
+  transition: all 500ms;
+}
+.red {
+  color: $메인칼라;
+}
+.my-alert {
+  background: #eee;
+  padding: 20px;
+  border-radius: 5px;
+  max-width: 500px;
+  width: 100%;
+  margin: auto;
+}
+.my-alert p {
+  margin-bottom: 0;
+}
