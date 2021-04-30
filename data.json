@@ -1,5 +1,3 @@
-// https://github.com/mongsukim/doll_shop
-
 [
   {
     "id": 3,
@@ -37,8 +35,4 @@
     "content": "Born in France",
     "price": 120000
   }
-
-
-
-
 ]
