@@ -36,10 +36,14 @@ function reducer(state = 초기값, 액션){
       copy.push(액션.데이터);
       return copy
     }
+
+    
   } else if( 액션.type === '수량증가'){
+
     let copy = [ ...state];
     copy[액션.데이터].quan++;
     return copy
+
   } else if(액션.type === '수량감소'){
     let copy = [ ...state];
     copy[액션.데이터].quan--;

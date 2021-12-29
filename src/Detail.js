@@ -108,11 +108,11 @@ function Info(props){
   )
 }
 
-function stateToprops화(state){
+function stateToprops(state){
   console.log(state);
   return{
     state : state.reducer,
     alert열렸니 : state.reducer2
   }
 }
-export default connect(stateToprops화)(Detail)
+export default connect(stateToprops)(Detail)
