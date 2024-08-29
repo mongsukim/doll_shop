@@ -17,7 +17,7 @@ function App() {
 
     return (
         <div className="App">
-            <Navbar bg="light" expand="lg" className="">
+            <div className="flex">
                 <Navbar.Brand href="#home">shop</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
@@ -37,14 +37,14 @@ function App() {
                         </NavDropdown>
                     </Nav>
                 </Navbar.Collapse>
-            </Navbar>
+            </div>
             <div className="background">
                 <h1>코코아 인형몰입니다!</h1>
                 <p>마음에 드는 인형을 골라주세요!</p>
             </div>
             <div className="container">
                 <Stockcontext.Provider value={Stock}>
-                    <div className="row">
+                    <div className="flex">
                         {shoes.map((a, i) => {
                             return <Card shoes={shoes[i]} i={i} key={i} />;
                         })}
